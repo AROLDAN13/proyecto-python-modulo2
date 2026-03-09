@@ -22,7 +22,5 @@ Este repositorio contiene una aplicación interactiva desarrollada en Python con
 ## 4. Instrucciones de Ejecución
 Sigue estos pasos para ejecutar la aplicación de forma local en tu computadora:
 
-1. **Clonar el repositorio:**
-   ```bash
-   git clone [https://github.com/TU_USUARIO/proyecto-python-modulo2.git](https://github.com/TU_USUARIO/proyecto-python-modulo2.git)
-   cd proyecto-python-modulo2
+1. Descargar todos los requerimientos de este repositorio.
+2. Abrir el siguiente link: https://proyecto-python-modulo2-23rc9hyr4s7n69vdm8suzt.streamlit.app/
