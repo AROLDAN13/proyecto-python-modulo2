@@ -8,14 +8,16 @@ Este repositorio contiene una aplicación interactiva desarrollada en Python con
 - **Módulo de Carga:**
 <img width="1896" height="665" alt="Modulo_Carga" src="https://github.com/user-attachments/assets/9412c2e6-49e8-40fc-89e6-f44c49300aa2" />
 
+
 - **Análisis Exploratorio (EDA):**
-![Dashboard EDA](URL_DE_TU_IMAGEN_AQUI)
+<img width="1848" height="895" alt="EDA" src="https://github.com/user-attachments/assets/23e18799-32d0-433a-9d00-34b897fec42a" />
+
 
 ## 3. Tecnologías Utilizadas
 - **Python:** Lenguaje principal.
-- [cite_start]**Pandas & NumPy:** Para la limpieza, transformación y análisis estadístico de los datos[cite: 14].
-- [cite_start]**Matplotlib & Seaborn:** Para la creación de visualizaciones gráficas[cite: 15].
-- [cite_start]**Streamlit:** Para la creación de la interfaz web interactiva[cite: 17].
+- **Pandas:** Para la limpieza, transformación y análisis estadístico de los datos.
+- **Matplotlib & Seaborn:** Para la creación de visualizaciones gráficas.
+- **Streamlit:** Para la creación de la interfaz web interactiva.
 
 ## 4. Instrucciones de Ejecución
 Sigue estos pasos para ejecutar la aplicación de forma local en tu computadora:
