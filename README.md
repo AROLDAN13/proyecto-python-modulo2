@@ -3,6 +3,9 @@
 ## 1. Descripción del Proyecto
 Este repositorio contiene una aplicación interactiva desarrollada en Python con Streamlit. El objetivo principal de este proyecto es analizar, limpiar, transformar y visualizar un conjunto de datos históricos para identificar patrones de comportamiento asociados a la fuga de clientes (Churn) en una empresa de telecomunicaciones. 
 
+**Contexto del Negocio:**
+Durante el último mes, debido a la coyuntura del COVID-19, la empresa experimentó un incremento en su ratio de fuga de clientes, pasando del 2% al 2.5%. Dado que el costo de adquirir un nuevo cliente es entre 6 y 7 veces mayor que retener a uno existente, este análisis exploratorio resulta vital para la toma de decisiones estratégicas. Cabe destacar que este proyecto se centra 100% en el análisis visual y estadístico, sin la implementación de modelos predictivos.
+
 ## 2. Capturas de la App
 
 - **Módulo de Carga:**
