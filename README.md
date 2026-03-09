@@ -22,5 +22,6 @@ Este repositorio contiene una aplicación interactiva desarrollada en Python con
 ## 4. Instrucciones de Ejecución
 Sigue estos pasos para ejecutar la aplicación de forma local en tu computadora:
 
-1. Descargar todos los requerimientos de este repositorio.
-2. Abrir el siguiente link: https://proyecto-python-modulo2-23rc9hyr4s7n69vdm8suzt.streamlit.app/
+1. Descargar todos los requerimientos de este repositorio y colocarlo en una carpeta.
+2. Colocar 'cmd' en  la ruta de tu carpeta.
+3. Instalar todas las librerias localmente y finalmente escribir 'Streamlit run app.py' para ver la aplicación. (Se verá de la siguiente manera: https://proyecto-python-modulo2-23rc9hyr4s7n69vdm8suzt.streamlit.app/)
