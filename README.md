@@ -1,16 +1,12 @@
 # 📊 Análisis Exploratorio de Datos (EDA) - Telco Customer Churn
 
 ## 1. Descripción del Proyecto
-Este repositorio contiene una aplicación interactiva desarrollada en Python con Streamlit. [cite_start]El objetivo principal de este proyecto es analizar, limpiar, transformar y visualizar un conjunto de datos históricos para identificar patrones de comportamiento asociados a la fuga de clientes (Churn) en una empresa de telecomunicaciones. 
-
-**Contexto del Negocio:**
-[cite_start]Durante el último mes, debido a la coyuntura del COVID-19, la empresa experimentó un incremento en su ratio de fuga de clientes, pasando del 2% al 2.5%[cite: 155]. [cite_start]Dado que el costo de adquirir un nuevo cliente es entre 6 y 7 veces mayor que retener a uno existente, este análisis exploratorio resulta vital para la toma de decisiones estratégicas[cite: 156]. [cite_start]Cabe destacar que este proyecto se centra 100% en el análisis visual y estadístico, sin la implementación de modelos predictivos[cite: 5, 6].
+Este repositorio contiene una aplicación interactiva desarrollada en Python con Streamlit. El objetivo principal de este proyecto es analizar, limpiar, transformar y visualizar un conjunto de datos históricos para identificar patrones de comportamiento asociados a la fuga de clientes (Churn) en una empresa de telecomunicaciones. 
 
 ## 2. Capturas de la App
-*(Nota: Aquí puedes subir imágenes de tu aplicación funcionando para que los visitantes vean cómo luce antes de ejecutarla)*
 
 - **Módulo de Carga:**
-![Carga de Datos](URL_DE_TU_IMAGEN_AQUI)
+<img width="1896" height="665" alt="Modulo_Carga" src="https://github.com/user-attachments/assets/9412c2e6-49e8-40fc-89e6-f44c49300aa2" />
 
 - **Análisis Exploratorio (EDA):**
 ![Dashboard EDA](URL_DE_TU_IMAGEN_AQUI)
